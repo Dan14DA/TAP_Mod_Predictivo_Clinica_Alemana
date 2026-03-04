@@ -231,21 +231,21 @@ python Codigo_Python/05_planificacion_operativa.py
 
 ## Transición a Datos Reales
 
-• Cuando esté listo para conectar datos reales de la Clínica Alemana:
-• Exportar datos del sistema actual al formato Excel definido
-• Ejecutar modelos predictivos en Python con datos reales
-• Generar archivo PowerBI_Dashboard_Data.xlsx actualizado
-• Actualizar conexión en Power BI
-• Configurar actualización automática (diaria, semanal, mensual según necesidad)
+- Cuando esté listo para conectar datos reales de la Clínica Alemana:
+- Exportar datos del sistema actual al formato Excel definido
+- Ejecutar modelos predictivos en Python con datos reales
+- Generar archivo PowerBI_Dashboard_Data.xlsx actualizado
+- Actualizar conexión en Power BI
+- Configurar actualización automática (diaria, semanal, mensual según necesidad)
 
 ---
 
 ## Mejoras Futuras Recomendadas
-•	Alertas automáticas: Notificaciones cuando luminarias entren en riesgo MUY ALTO
-•	Integración con sistema de tickets: Generar órdenes de trabajo automáticamente
-•	Optimización de rutas: Algoritmo para planificar rutas eficientes de mantenimiento
-•	Análisis de costos: Comparación entre mantenimiento preventivo vs reactivo
-•	Dashboard móvil: Versión optimizada para tablets del equipo de mantenimiento
+-	Alertas automáticas: Notificaciones cuando luminarias entren en riesgo MUY ALTO
+-	Integración con sistema de tickets: Generar órdenes de trabajo automáticamente
+-	Optimización de rutas: Algoritmo para planificar rutas eficientes de mantenimiento
+-	Análisis de costos: Comparación entre mantenimiento preventivo vs reactivo
+-	Dashboard móvil: Versión optimizada para tablets del equipo de mantenimiento
 
 ---
 
@@ -275,4 +275,5 @@ Proyecto académico desarrollado para Instituto Profesional AIEP — Carrera Dat
 ---
 
 *Sistema desarrollado bajo un modelo de 4 fases en 6 meses · 480 horas de desarrollo · TAP AIEP 2026*
+
 
