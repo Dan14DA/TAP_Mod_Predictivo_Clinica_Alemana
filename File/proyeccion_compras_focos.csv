@@ -1,0 +1,27 @@
+﻿tipo_led,cantidad,periodo,dias,costo_unitario_clp,costo_total_clp
+LED Downlight,35,30 días (1 mes),30,9990,349650
+LED Emergencia,5,30 días (1 mes),30,15990,79950
+LED Industrial,1,30 días (1 mes),30,18990,18990
+LED Quirúrgico,3,30 días (1 mes),30,45990,137970
+LED Tubo T8,13,30 días (1 mes),30,8990,116870
+LED Downlight,43,60 días (2 meses),60,9990,429570
+LED Emergencia,5,60 días (2 meses),60,15990,79950
+LED Industrial,2,60 días (2 meses),60,18990,37980
+LED Quirúrgico,3,60 días (2 meses),60,45990,137970
+LED Tubo T8,21,60 días (2 meses),60,8990,188790
+LED Downlight,51,90 días (3 meses),90,9990,509490
+LED Emergencia,9,90 días (3 meses),90,15990,143910
+LED Industrial,2,90 días (3 meses),90,18990,37980
+LED Quirúrgico,4,90 días (3 meses),90,45990,183960
+LED Tubo T8,26,90 días (3 meses),90,8990,233740
+LED Downlight,95,180 días (6 meses),180,9990,949050
+LED Emergencia,24,180 días (6 meses),180,15990,383760
+LED Industrial,5,180 días (6 meses),180,18990,94950
+LED Quirúrgico,5,180 días (6 meses),180,45990,229950
+LED Tubo T8,54,180 días (6 meses),180,8990,485460
+LED Downlight,200,365 días (1 año),365,9990,1998000
+LED Emergencia,50,365 días (1 año),365,15990,799500
+LED Industrial,20,365 días (1 año),365,18990,379800
+LED Panel 60x60,1,365 días (1 año),365,12990,12990
+LED Quirúrgico,33,365 días (1 año),365,45990,1517670
+LED Tubo T8,118,365 días (1 año),365,8990,1060820

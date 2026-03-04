@@ -1,0 +1,93 @@
+﻿id_luminaria,id_trabajador,nombre_trabajador,piso,area,sector,tipo_led,prioridad,criticidad,dias_restantes,tiempo_estimado_min
+LED-00516,1,Trabajador 1,Piso 1,Urgencias General,SECTOR_A_Bajo,LED Emergencia,1,CRÍTICA,70.61090107156794,20
+LED-00596,2,Trabajador 2,Piso 1,Urgencias Escolar,SECTOR_A_Bajo,LED Emergencia,1,CRÍTICA,66.679711265956,20
+LED-00534,3,Trabajador 3,Piso 1,Urgencias General,SECTOR_A_Bajo,LED Emergencia,1,CRÍTICA,-208.62510624123516,20
+LED-00577,4,Trabajador 4,Piso 1,Urgencias Escolar,SECTOR_A_Bajo,LED Emergencia,1,CRÍTICA,7.877571273076,20
+LED-01874,5,Trabajador 5,Piso 7,Estación Enfermería,SECTOR_B_Medio,LED Emergencia,1,CRÍTICA,-95.10649400752456,20
+LED-01885,6,Trabajador 6,Piso 7,Estación Enfermería,SECTOR_B_Medio,LED Emergencia,1,CRÍTICA,87.73886480601433,20
+LED-01887,7,Trabajador 7,Piso 7,Estación Enfermería,SECTOR_B_Medio,LED Emergencia,1,CRÍTICA,4.124363326396394,20
+LED-01709,8,Trabajador 8,Piso 6,Estación Enfermería,SECTOR_B_Medio,LED Emergencia,1,CRÍTICA,-31.588027477596363,20
+LED-02053,9,Trabajador 9,Piso 8,Estación Enfermería,SECTOR_C_Alto,LED Emergencia,1,CRÍTICA,72.8427138739534,20
+LED-02715,10,Trabajador 10,Piso 12,Pabellón Quirúrgico,SECTOR_C_Alto,LED Quirúrgico,1,CRÍTICA,23.81721088901325,45
+LED-02650,1,Trabajador 1,Piso 11,Recuperación,SECTOR_C_Alto,LED Downlight,1,CRÍTICA,-22.24411161446648,15
+LED-02649,2,Trabajador 2,Piso 11,Recuperación,SECTOR_C_Alto,LED Downlight,1,CRÍTICA,54.987956300380375,15
+LED-02639,3,Trabajador 3,Piso 11,Recuperación,SECTOR_C_Alto,LED Downlight,1,CRÍTICA,29.179142007385963,15
+LED-02624,4,Trabajador 4,Piso 11,Recuperación,SECTOR_C_Alto,LED Downlight,1,CRÍTICA,10.17241717329059,15
+LED-02588,5,Trabajador 5,Piso 11,UCI,SECTOR_C_Alto,LED Quirúrgico,1,CRÍTICA,24.81945738388721,45
+LED-02551,6,Trabajador 6,Piso 11,UCI,SECTOR_C_Alto,LED Quirúrgico,1,CRÍTICA,-95.58522667309305,45
+LED-02512,7,Trabajador 7,Piso 11,Pabellón Quirúrgico,SECTOR_C_Alto,LED Quirúrgico,1,CRÍTICA,71.63295151443964,45
+LED-02439,8,Trabajador 8,Piso 10,Pasillos Quirófano,SECTOR_C_Alto,LED Tubo T8,1,CRÍTICA,52.11628217816055,12
+LED-01432,9,Trabajador 9,Piso 5,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,58.4251164048344,15
+LED-01444,8,Trabajador 8,Piso 5,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,78.80500085620835,15
+LED-01629,1,Trabajador 1,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,5.956791742684714,15
+LED-01619,2,Trabajador 2,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,50.26479827625482,15
+LED-01616,3,Trabajador 3,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-525.4749626412549,15
+LED-01404,4,Trabajador 4,Piso 5,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,52.96615502817132,15
+LED-01580,9,Trabajador 9,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-86.11397581504517,15
+LED-00716,10,Trabajador 10,Piso 1,Admisiones,SECTOR_A_Bajo,LED Downlight,1,ALTA,75.39090097792369,15
+LED-00860,8,Trabajador 8,Piso 2,Laboratorio,SECTOR_A_Bajo,LED Industrial,1,ALTA,-175.63277624155734,25
+LED-00825,1,Trabajador 1,Piso 2,Laboratorio,SECTOR_A_Bajo,LED Industrial,1,ALTA,48.916603184210935,25
+LED-00975,2,Trabajador 2,Piso 2,Pasillos Principales,SECTOR_A_Bajo,LED Tubo T8,1,ALTA,-575.0572708260199,12
+LED-01019,3,Trabajador 3,Piso 2,Pasillos Principales,SECTOR_A_Bajo,LED Tubo T8,1,ALTA,-297.81095876668803,12
+LED-01226,4,Trabajador 4,Piso 4,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-699.6457690147998,15
+LED-01227,9,Trabajador 9,Piso 4,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,72.71488771135944,15
+LED-01782,10,Trabajador 10,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-232.0455209379704,15
+LED-01998,2,Trabajador 2,Piso 8,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-90.41093223600078,15
+LED-02018,3,Trabajador 3,Piso 8,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-28.028135923112877,15
+LED-01940,4,Trabajador 4,Piso 8,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,75.37853898817137,15
+LED-01300,5,Trabajador 5,Piso 4,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-18.052986367386133,15
+LED-01799,6,Trabajador 6,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,21.897426306629104,15
+LED-01810,7,Trabajador 7,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,80.06304429380876,15
+LED-01803,9,Trabajador 9,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-269.19836366073235,15
+LED-01859,8,Trabajador 8,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,58.830028400526416,15
+LED-01855,1,Trabajador 1,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,78.0203597245196,15
+LED-01850,10,Trabajador 10,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-25.868844195805828,15
+LED-01844,2,Trabajador 2,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-122.0832236720021,15
+LED-01921,3,Trabajador 3,Piso 7,Pasillos,SECTOR_B_Medio,LED Tubo T8,1,ALTA,45.85162220957935,12
+LED-01928,4,Trabajador 4,Piso 7,Pasillos,SECTOR_B_Medio,LED Tubo T8,1,ALTA,9.326416867544314,12
+LED-01644,5,Trabajador 5,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,0.5084375796764541,15
+LED-01835,6,Trabajador 6,Piso 7,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-389.5161013671132,15
+LED-02215,7,Trabajador 7,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,85.22494942309116,15
+LED-02195,9,Trabajador 9,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-13.134358614126429,15
+LED-02160,8,Trabajador 8,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-430.0600909942182,15
+LED-02177,3,Trabajador 3,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-778.4720035050613,15
+LED-02267,1,Trabajador 1,Piso 9,Pasillos,SECTOR_C_Alto,LED Tubo T8,1,ALTA,42.99509943064111,12
+LED-02226,10,Trabajador 10,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-636.276884963297,15
+LED-02221,2,Trabajador 2,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-384.9315429578909,15
+LED-01609,4,Trabajador 4,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,7.614427631240118,15
+LED-01383,5,Trabajador 5,Piso 5,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-23.276367279532728,15
+LED-01369,6,Trabajador 6,Piso 4,Pasillos,SECTOR_B_Medio,LED Tubo T8,1,ALTA,-28.844215190115285,12
+LED-01347,7,Trabajador 7,Piso 4,Pasillos,SECTOR_B_Medio,LED Tubo T8,1,ALTA,45.5720636939573,12
+LED-00622,9,Trabajador 9,Piso 1,Hall Principal,SECTOR_A_Bajo,LED Downlight,1,ALTA,17.21039217361234,15
+LED-01640,1,Trabajador 1,Piso 6,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-298.54512894092227,15
+LED-01280,8,Trabajador 8,Piso 4,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,3.957696071991256,15
+LED-01234,3,Trabajador 3,Piso 4,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,-514.8598200736984,15
+LED-01261,10,Trabajador 10,Piso 4,Habitaciones Pacientes,SECTOR_B_Medio,LED Downlight,1,ALTA,38.70277700383226,15
+LED-02295,2,Trabajador 2,Piso 9,Pasillos,SECTOR_C_Alto,LED Tubo T8,1,ALTA,75.72122751973899,12
+LED-02771,4,Trabajador 4,Piso 12,Sala Apoyo,SECTOR_C_Alto,LED Downlight,1,ALTA,-281.18291349550907,15
+LED-02773,6,Trabajador 6,Piso 12,Sala Apoyo,SECTOR_C_Alto,LED Downlight,1,ALTA,-176.40350723955734,15
+LED-02783,7,Trabajador 7,Piso 12,Sala Apoyo,SECTOR_C_Alto,LED Downlight,1,ALTA,-126.54999062047692,15
+LED-02091,5,Trabajador 5,Piso 8,Pasillos,SECTOR_C_Alto,LED Tubo T8,1,ALTA,-764.7484396330476,12
+LED-02102,9,Trabajador 9,Piso 8,Pasillos,SECTOR_C_Alto,LED Tubo T8,1,ALTA,-423.78942159363805,12
+LED-02123,1,Trabajador 1,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,16.95532735637024,15
+LED-02148,8,Trabajador 8,Piso 9,Habitaciones Pacientes,SECTOR_C_Alto,LED Downlight,1,ALTA,-13.260111581899004,15
+LED-02798,2,Trabajador 2,Piso 12,Sala Apoyo,SECTOR_C_Alto,LED Downlight,1,ALTA,66.73454758580309,15
+LED-02792,3,Trabajador 3,Piso 12,Sala Apoyo,SECTOR_C_Alto,LED Downlight,1,ALTA,51.10107225699328,15
+LED-02300,10,Trabajador 10,Piso 9,Pasillos,SECTOR_C_Alto,LED Tubo T8,1,ALTA,52.93486654032657,12
+LED-01157,4,Trabajador 4,Piso 3,Pasillos,SECTOR_A_Bajo,LED Tubo T8,1,MEDIA,-430.9888503502863,12
+LED-00374,5,Trabajador 5,Piso -1,Servicios Generales,SECTOR_A_Bajo,LED Downlight,1,MEDIA,-237.4630384394456,15
+LED-00211,6,Trabajador 6,Piso -1,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,1,BAJA,-680.3155599734506,12
+LED-00075,7,Trabajador 7,Piso -2,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,1,BAJA,-762.9300071774212,12
+LED-01154,9,Trabajador 9,Piso 3,Pasillos,SECTOR_A_Bajo,LED Tubo T8,2,MEDIA,64.33893440077853,12
+LED-00364,1,Trabajador 1,Piso -1,Servicios Generales,SECTOR_A_Bajo,LED Downlight,2,MEDIA,12.520983942285554,15
+LED-00430,8,Trabajador 8,Piso -1,Servicios Generales,SECTOR_A_Bajo,LED Downlight,2,MEDIA,49.99445633722471,15
+LED-00104,10,Trabajador 10,Piso -2,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,2,BAJA,-40.946400872400126,12
+LED-00021,2,Trabajador 2,Piso -2,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,2,BAJA,-280.9292687496365,12
+LED-00077,3,Trabajador 3,Piso -2,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,19.071032773594546,12
+LED-00043,4,Trabajador 4,Piso -2,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,53.79790219747414,12
+LED-00148,6,Trabajador 6,Piso -2,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,71.85117545585376,12
+LED-00303,7,Trabajador 7,Piso -1,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,47.63256940148574,12
+LED-00306,9,Trabajador 9,Piso -1,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,54.87744125571339,12
+LED-00317,5,Trabajador 5,Piso -1,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,80.14842650900492,12
+LED-00321,10,Trabajador 10,Piso -1,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,67.60784443798003,12
+LED-00332,2,Trabajador 2,Piso -1,Estacionamiento,SECTOR_A_Bajo,LED Tubo T8,3,BAJA,17.043025872582067,12

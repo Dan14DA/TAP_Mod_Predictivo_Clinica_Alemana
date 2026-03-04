@@ -1,0 +1,14 @@
+﻿Metrica,Valor
+Total_Luminarias,3395.0
+Luminarias_Operativas,2462.0
+Luminarias_Reemplazadas,933.0
+Riesgo_MUY_ALTO,156.0
+Riesgo_ALTO,138.0
+Riesgo_MEDIO,534.0
+Riesgo_BAJO,1634.0
+Prioridad_1_Urgente,239.0
+Prioridad_2_Alta,368.0
+Areas_CRITICAS,790.0
+Vida_Util_Promedio_Pct,77.19
+Horas_Uso_Promedio,34385.0
+Tasa_Falla_Global_Pct,27.48
