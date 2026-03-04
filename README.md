@@ -182,9 +182,7 @@ TAP/
 ├── 📁 Instrucciones/                 # Documentación TAP
 └── 📁 Reporte_Final/                 # Informe académico TAP
     ├── Informe_TAP_AIEP_DATA_SCIENCE.pdf
-   
-    ```
-
+  
 ---
 
 ## 🚀 Instrucciones de Uso
@@ -274,6 +272,7 @@ Proyecto académico desarrollado para Instituto Profesional AIEP — Carrera Dat
 ---
 
 *Sistema desarrollado bajo un modelo de 4 fases en 6 meses · 480 horas de desarrollo · TAP AIEP 2026*
+
 
 
 
