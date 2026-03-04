@@ -68,20 +68,18 @@ DIM_Ubicacion ── FACT_Luminarias ── DIM_Producto
 - 6 KPI Cards: Total luminarias, Operatividad %, Riesgo Crítico, Prioridad 1, Indicador Salud
 - Distribución por nivel de riesgo (BAJO / MEDIO / ALTO / MUY ALTO)
 - Criticidad de áreas
-- Mapa de calor por piso (% vida útil consumida)
+- TreeMap por criticidad y Piso
 - Top 10 áreas con mayor riesgo
 
 ### Página 2 — Análisis Predictivo
 - Predicciones de vida útil remanente por luminaria
 - Priorización de intervenciones
 - Probabilidad de falla por área y tipo LED
-- Curvas de supervivencia (Kaplan-Meier)
 
 ### Página 3 — Mantenimiento Histórico
 - Tendencias temporales de fallas
 - Desempeño por marca y tipo de LED
 - Tasa de falla global (27.5%)
-- Comparativa de costos preventivo vs reactivo
 
 ---
 
@@ -178,14 +176,14 @@ TAP/
 │   │   ├── PowerBI_DIM_Tiempo.csv
 │   │   └── PowerBI_Resumen_Metricas.csv
 │   ├── PowerBI_Dashboard_Data.xlsx   # Fuente de datos para Power BI
-│   ├── dashboard_1_resumen_ejecutivo.html
+│   ├── dashboard_1_resumen_ejecutivo
 │   ├── dashboard_2_analisis_predictivo.html
-│   └── dashboard_3_historico.html
+│   └── dashboard_3_mantenimineto historico.html
 ├── 📁 Instrucciones/                 # Documentación de uso
 └── 📁 Reporte_Final/                 # Informe académico TAP
     ├── Informe_TAP_AIEP_DATA_SCIENCE.pdf
-    ├── Informe_TAP_AIEP_FINAL_DATA_SCIENCE_CORREGIDO.docx
-    └── Guia_PowerBI_Dashboard.docx
+    ├── Guia Técnica
+    └── Guia de Usuario
 ```
 
 ---
@@ -218,15 +216,7 @@ python Codigo_Python/05_planificacion_operativa.py
 ### Paso 2 — Abrir Power BI
 1. Abrir `Clinica Alemana.pbix` en Power BI Desktop
 2. El modelo ya incluye **5 relaciones** y **29 medidas DAX** precargadas
-3. Consultar `Reporte_Final/Guia_PowerBI_Dashboard.docx` para instrucciones detalladas de las 3 páginas
 
-### Paso 3 — Ver dashboards HTML (referencia)
-Abrir directamente en el navegador:
-- `File/dashboard_1_resumen_ejecutivo.html` — KPIs y distribución de riesgo
-- `File/dashboard_2_analisis_predictivo.html` — Predicciones y priorización
-- `File/dashboard_3_historico.html` — Tendencias históricas
-
----
 
 ## 📈 Hallazgos Clave del EDA
 
@@ -236,6 +226,26 @@ Abrir directamente en el navegador:
 - **Philips y Osram:** mejor desempeño (22–24% falla vs 32–37% marcas genéricas)
 - **LED Quirúrgico:** especialidad más confiable (3.5% tasa de falla)
 - **LED Tubo T8:** mayor tasa de falla (52.9%) → prioridad de evaluación
+
+---
+
+## Transición a Datos Reales
+
+• Cuando esté listo para conectar datos reales de la Clínica Alemana:
+• Exportar datos del sistema actual al formato Excel definido
+• Ejecutar modelos predictivos en Python con datos reales
+• Generar archivo PowerBI_Dashboard_Data.xlsx actualizado
+• Actualizar conexión en Power BI
+• Configurar actualización automática (diaria, semanal, mensual según necesidad)
+
+---
+
+## Mejoras Futuras Recomendadas
+•	Alertas automáticas: Notificaciones cuando luminarias entren en riesgo MUY ALTO
+•	Integración con sistema de tickets: Generar órdenes de trabajo automáticamente
+•	Optimización de rutas: Algoritmo para planificar rutas eficientes de mantenimiento
+•	Análisis de costos: Comparación entre mantenimiento preventivo vs reactivo
+•	Dashboard móvil: Versión optimizada para tablets del equipo de mantenimiento
 
 ---
 
@@ -265,3 +275,4 @@ Proyecto académico desarrollado para Instituto Profesional AIEP — Carrera Dat
 ---
 
 *Sistema desarrollado bajo un modelo de 4 fases en 6 meses · 480 horas de desarrollo · TAP AIEP 2026*
+
