@@ -177,8 +177,8 @@ TAP/
 │   │   └── PowerBI_Resumen_Metricas.csv
 │   ├── PowerBI_Dashboard_Data.xlsx   # Fuente de datos para Power BI
 │   ├── dashboard_1_resumen_ejecutivo
-│   ├── dashboard_2_analisis_predictivo.html
-│   └── dashboard_3_mantenimineto historico.html
+│   ├── dashboard_2_analisis_predictivo
+│   └── dashboard_3_mantenimineto historico
 ├── 📁 Instrucciones/                 # Documentación de uso
 └── 📁 Reporte_Final/                 # Informe académico TAP
     ├── Informe_TAP_AIEP_DATA_SCIENCE.pdf
@@ -275,5 +275,6 @@ Proyecto académico desarrollado para Instituto Profesional AIEP — Carrera Dat
 ---
 
 *Sistema desarrollado bajo un modelo de 4 fases en 6 meses · 480 horas de desarrollo · TAP AIEP 2026*
+
 
 
