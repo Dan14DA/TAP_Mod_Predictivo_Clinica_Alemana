@@ -179,12 +179,11 @@ TAP/
 │   ├── dashboard_1_resumen_ejecutivo
 │   ├── dashboard_2_analisis_predictivo
 │   └── dashboard_3_mantenimineto historico
-├── 📁 Instrucciones/                 # Documentación de uso
+├── 📁 Instrucciones/                 # Documentación TAP
 └── 📁 Reporte_Final/                 # Informe académico TAP
     ├── Informe_TAP_AIEP_DATA_SCIENCE.pdf
-    ├── Guia Técnica
-    └── Guia de Usuario
-```
+   
+    ```
 
 ---
 
@@ -275,6 +274,7 @@ Proyecto académico desarrollado para Instituto Profesional AIEP — Carrera Dat
 ---
 
 *Sistema desarrollado bajo un modelo de 4 fases en 6 meses · 480 horas de desarrollo · TAP AIEP 2026*
+
 
 
 
